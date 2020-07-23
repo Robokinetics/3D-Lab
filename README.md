@@ -1,4 +1,4 @@
-# Erzay 3D-Lab
+# Erzay 3DLab
 Программа для работы с 3D-принтерами и 3D-печатью
 
 Программа является алтернативной легковесной оболочкой для популярного слайсера «[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)»
